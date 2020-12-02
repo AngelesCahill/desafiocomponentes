@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # desafiocomponentesrickandmorty
 
 ## Project setup
@@ -22,3 +23,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# desafiocomponentes
+>>>>>>> 6f2bcee851c66a0a882cd569459abe0434cfed65
